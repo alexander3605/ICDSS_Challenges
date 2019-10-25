@@ -103,3 +103,5 @@ ENV/
 .vscode
 .DS_Store
 *.swp
+computer-vision/fashion_mnist_train.csv
+computer-vision/fashion_mnist_test.csv
